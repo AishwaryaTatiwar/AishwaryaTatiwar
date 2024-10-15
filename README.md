@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on Javascript<br>Collaborate with friends<br>
+I'm currently working on Node.js and express<br>Collaborate with friends<br>
 
 
 ## 🌐 Socials:
